@@ -3,6 +3,7 @@ import { Collapse } from 'react-bootstrap';
 import { connect } from 'react-redux';
 import cx from 'classnames';
 
+// Se realiza el módulo del perfil del usuario en el SideBar
 class UserInfo extends Component {
 
   state = {

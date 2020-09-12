@@ -1,5 +1,5 @@
 import React from 'react';
-
+//Se realiza el Footer de la pagina
 const Footer = () => (
   <footer className="footer">
     <div className="container-fluid">

@@ -19,6 +19,8 @@ import UserProfile from '../UserProfile';
 import MapsPage from '../MapsPage';
 import Forms from '../Forms';
 
+
+// Donde se realizan los respectivos router y la unión de la pagina el Main
 const Main = ({
   mobileNavVisibility,
   hideMobileMenu,

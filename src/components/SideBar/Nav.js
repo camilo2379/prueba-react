@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link, withRouter } from 'react-router-dom';
 import { Collapse } from 'react-bootstrap';
 
-
+//Se realiza la navegación del SideBar
 class Nav extends Component {
 
   state = {};

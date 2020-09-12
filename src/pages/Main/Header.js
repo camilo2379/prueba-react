@@ -3,6 +3,8 @@ import { connect } from 'react-redux';
 import { toggleMobileNavVisibility } from '../../reducers/Layout';
 import { Navbar, Nav, NavItem, NavDropdown, MenuItem, FormGroup, FormControl } from 'react-bootstrap';
 
+
+//Se realiza el encabezado de la pagina
 const Header = ({
   showMobileMenu,
   toggleMobileNavVisibility

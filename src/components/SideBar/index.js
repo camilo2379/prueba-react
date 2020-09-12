@@ -5,6 +5,8 @@ import { Collapse } from 'react-bootstrap';
 import UserInfo from './UserInfo';
 import Nav from './Nav';
 
+
+// Se integra los elementos del SideBar
 class SideBar extends Component {
 
   state = {};
