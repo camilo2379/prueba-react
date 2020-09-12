@@ -1,6 +1,6 @@
 import React from 'react';
 import Chart from 'react-chartist';
-
+//Recibe la información
 let data = {
   labels: ['Jan', 'Feb', 'Mar', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
   series: [
